@@ -42,7 +42,6 @@ function mostrarProductos(array){
     array.forEach(productos => {
         let div = document.createElement('div')
         div.classList.add('producto')
-        div.classList.add('img')
         div.innerHTML += `
             <div class="card">
                 <div class="card-image">

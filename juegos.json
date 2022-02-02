@@ -4,7 +4,7 @@
     "nombre": "Fifa 22",
     "formato": "Digital",
     "precio": 8000,
-    "img": "/img/fifa22.jfif",
+    "img": ".../img/fifa22.jfif",
     "cantidad": 1
   },
   {
@@ -12,7 +12,7 @@
     "nombre": "Hitman III",
     "formato": "Digital",
     "precio": 5100,
-    "img": "/img/hitman3.jfif",
+    "img": ".../img/hitman3.jfif",
     "cantidad": 1
   },
   {
@@ -20,7 +20,7 @@
     "nombre": "Nba2k22",
     "formato": "Digital",
     "precio": 8000,
-    "img": "/img/nba22.jpg",
+    "img": ".../img/nba22.jpg",
     "cantidad": 1
   },
   {
@@ -28,7 +28,7 @@
     "nombre": "Spiderman:Miles Morales",
     "formato": "Digital",
     "precio": 4400,
-    "img": "/img/spiderman.jpg",
+    "img": ".../img/spiderman.jpg",
     "cantidad": 1
   },
   {
@@ -36,7 +36,7 @@
     "nombre": "The Last of Us: Part II",
     "formato": "Digital",
     "precio": 3000,
-    "img": "/img/thelastofus.jpg",
+    "img": ".../img/thelastofus.jpg",
     "cantidad": 1
   },
   {
@@ -44,7 +44,7 @@
     "nombre": "Rugby 22",
     "formato": "Digital",
     "precio": 2000,
-    "img": "/img/rugby22.jpg",
+    "img": ".../img/rugby22.jpg",
     "cantidad": 1
   },
   {
@@ -52,7 +52,7 @@
     "nombre": "Uncharted 4",
     "formato": "Digital",
     "precio": 1500,
-    "img": "/img/uncharted4.jpg",
+    "img": ".../img/uncharted4.jpg",
     "cantidad": 1
   },
   {
@@ -60,7 +60,7 @@
     "nombre": "Need for Speed",
     "formato": "Digital",
     "precio": 1500,
-    "img": "/img/needforspeed.jfif",
+    "img": ".../img/needforspeed.jfif",
     "cantidad": 1
   },
   {
@@ -68,7 +68,7 @@
     "nombre": "GTA V",
     "formato": "Digital",
     "precio": 2500,
-    "img": "/img/gta5.jpg",
+    "img": ".../img/gta5.jpg",
     "cantidad": 1
   },
   {
@@ -76,7 +76,7 @@
     "nombre": "Assasins Creed:Origins",
     "formato": "Digital",
     "precio": 2700,
-    "img": "/img/assasincredd.jpg",
+    "img": ".../img/assasincredd.jpg",
     "cantidad": 1
   }
 ]
